@@ -7,6 +7,6 @@ read twitter
 call someone
 jump three times
 take some beer
-find something interestin on github
+find something interesting on github
 get new chamomile
 create some funny app
